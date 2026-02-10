@@ -12,9 +12,9 @@
 - Use sample data paragraph  
 
 ### ⚙️ Quiz Generation Settings
-- Select **type of questions** (e.g., MCQs, blanks, short answer, etc.)
-- Choose **difficulty level** (Easy / Medium / Hard)
-- Select **number of questions**
+- Select **type of questions** (e.g., MCQs, blanks, short answer etc.)  
+- Choose **difficulty level** (Easy / Medium / Hard)  
+- Select **number of questions**  
 
 ### 📝 Quiz Interaction
 - Quiz appears instantly after generation  
@@ -55,10 +55,17 @@
 
 ## 📸 Project Screenshots
 
-```md
-![Home Page](images/home.png)
-![Upload Section](images/upload.png)
-![Quiz Settings](images/settings.png)
-![Generated Quiz](images/quiz.png)
-![Result Page](images/result.png)
-![Result Page](images/result2.png)
+![Home Page](./images/home.png)  
+![Upload Section](./images/upload.png)  
+![Quiz Settings](./images/settings.png)  
+![Generated Quiz](./images/quiz.png)  
+![Result Page](./images/result.png)  
+![Result Page](./images/result2.png)  
+
+---
+
+## 🔧 Installation & Setup
+
+```bash
+# Clone repository
+git clone https://github.com/your-username/quizgen.git
