@@ -68,4 +68,4 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/quizgen.git
+git clone https://github.com/lembhe04/quizgen.git
