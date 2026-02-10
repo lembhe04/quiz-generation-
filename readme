@@ -7,65 +7,53 @@
 ## 🚀 Features
 
 ### 📥 Input Methods
-
-* Upload files 
-* Paste your own paragraph/text
-* Use sample data paragraph
+- Upload files  
+- Paste your own paragraph/text  
+- Use sample data paragraph  
 
 ### ⚙️ Quiz Generation Settings
-
-* Select **type of questions** (e.g., MCQs, blanks, short answer etc.)
-* Choose **difficulty level** (Easy / Medium / Hard)
-* Select **number of questions**
+- Select **type of questions** (e.g., MCQs, blanks, short answer, etc.)
+- Choose **difficulty level** (Easy / Medium / Hard)
+- Select **number of questions**
 
 ### 📝 Quiz Interaction
-
-* Quiz appears instantly after generation
-* Solve quiz directly on the platform
-* Submit quiz for evaluation
+- Quiz appears instantly after generation  
+- Solve quiz directly on the platform  
+- Submit quiz for evaluation  
 
 ### 📊 Results
-
-* Instant score display
-* Correct answers shown below each question
+- Instant score display  
+- Correct answers shown below each question  
 
 ### 🔁 Options
-
-* **Start Over** – Restart quiz generation
-* **Save** – (UI present, feature under development)
-* **Share** – (UI present, feature under development)
+- **Start Over** – Restart quiz generation  
+- **Save** – (UI present, feature under development)  
+- **Share** – (UI present, feature under development)  
 
 ---
 
-
-
 ## 📁 Project Workflow
 
-1. Upload `.txt` file OR paste text OR select sample data
-2. Click **Generate Quiz**
+1. Upload `.txt` file OR paste text OR select sample data  
+2. Click **Generate Quiz**  
 3. Choose:
-
-   * Question type
-   * Difficulty level
-   * Number of questions
-4. Quiz is generated
-5. Solve the quiz
-6. Submit quiz
+   - Question type  
+   - Difficulty level  
+   - Number of questions  
+4. Quiz is generated  
+5. Solve the quiz  
+6. Submit quiz  
 7. View:
-
-   * Score
-   * Correct answers
+   - Score  
+   - Correct answers  
 8. Options:
-
-   * Start Over
-   * Save (Coming Soon)
-   * Share (Coming Soon)
+   - Start Over  
+   - Save (Coming Soon)  
+   - Share (Coming Soon)  
 
 ---
 
 ## 📸 Project Screenshots
-
-
 
 ```md
 ![Home Page](images/home.png)
@@ -74,55 +62,3 @@
 ![Generated Quiz](images/quiz.png)
 ![Result Page](images/result.png)
 ![Result Page](images/result2.png)
-```
-
-
-
-## 🔧 Installation & Setup
-
-```bash
-# Clone repository
-git clone https://github.com/your-username/quizgen.git
-
-
----
-
-## 📌 Future Enhancements
-
-* ✅ Support for PDF & DOCX uploads
-* ✅ Save quiz history
-* ✅ Share quiz via link
-* ✅ User authentication
-* ✅ Quiz analytics dashboard
-* ✅ Admin panel
-* ✅ Question bank system
-
----
-
-## 🎯 Use Cases
-
-* Online learning platforms
-* Smart education systems
-* E-learning apps
-* AI-powered learning tools
-* Automatic assessment systems
-
----
-
-
-
-
----
-
-
-
----
-
-## 👩‍💻 Author
-
-**Prachi**
-NLP Project | Quiz Generation System
-
----
-
-
