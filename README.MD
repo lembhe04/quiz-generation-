@@ -1,6 +1,6 @@
 # QuizGen 🧠✨
 
-**QuizGen** is an NLP-based quiz generation project that allows users to automatically generate quizzes from text input or uploaded files. It provides an interactive quiz experience with configurable question types, difficulty levels, and instant result evaluation.
+**QuizGen** is an NLP-based quiz generation project that allows users to automatically generate quizzes from text input or uploaded files. It provides an interactive quiz experience with configurable question types, difficulty levels, and instant result evaluation and sharing.
 
 ---
 
